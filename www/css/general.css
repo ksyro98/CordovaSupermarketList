@@ -1,0 +1,26 @@
+h5 {
+    color: white;
+    margin-left: 1em;
+    vertical-align: central;
+    position: absolute;
+    margin-top: 1em;
+}
+
+.rectangle {
+    height: 4em;
+    width: 100%;
+    background-color: #ffa500;
+    position: relative;
+}
+
+
+.vertical-center {
+    min-height: 40vh;
+    display: flex;
+    align-items: flex-end;
+}
+
+html,
+body {
+    height: 100%;
+}

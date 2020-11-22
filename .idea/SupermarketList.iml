@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$/../SupermarketList">
+      <excludeFolder url="file://$MODULE_DIR$/../SupermarketList/.tmp" />
+      <excludeFolder url="file://$MODULE_DIR$/../SupermarketList/platforms" />
+      <excludeFolder url="file://$MODULE_DIR$/../SupermarketList/temp" />
+      <excludeFolder url="file://$MODULE_DIR$/../SupermarketList/tmp" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="bootstrap" level="application" />
+    <orderEntry type="library" name="jquery-1.11.0" level="application" />
+    <orderEntry type="library" name="jquery" level="application" />
+    <orderEntry type="library" name="hammer" level="application" />
+  </component>
+</module>
