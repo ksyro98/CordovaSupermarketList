@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8af187ff-2633-47df-8adf-1bc320abc907" name="Default Changelist" comment="" />
+    <list default="true" id="8af187ff-2633-47df-8adf-1bc320abc907" name="Default Changelist" comment="Initial commit">
+      <change beforePath="$PROJECT_DIR$/../SupermarketList/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SupermarketList/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SupermarketList/config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SupermarketList/config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SupermarketList/www/img/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/../SupermarketList/www/img/logo.png" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,7 +21,17 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../SupermarketList" />
+  </component>
   <component name="ProjectId" id="1kHd9Acbsc6S02NJkoJtglyd8cH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -27,13 +41,16 @@
     <property name="NewWatcherDialog.advanced.open" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SupermarketList" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SupermarketList/www/img" />
     <property name="list.type.of.created.stylesheet" value="SCSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../SupermarketList/www/img" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/www/css" />
     </key>
@@ -105,12 +122,24 @@
       <workItem from="1606052915175" duration="824000" />
       <workItem from="1606053757053" duration="1444000" />
       <workItem from="1606055217500" duration="369000" />
-      <workItem from="1606055604894" duration="15963000" />
+      <workItem from="1606055604894" duration="17402000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <created>1606076010908</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1606076010908</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1934" y="221" width="214" height="329" key="#File_Watchers" timestamp="1606055621280">
@@ -146,34 +175,42 @@
       <screen x="1366" y="0" width="1360" height="768" />
     </state>
     <state x="1403" y="160" width="1251" height="478" key="EnvironmentVariablesDialog/0.30.1366.738/1366.0.1360.768@1366.0.1360.768" timestamp="1605741074843" />
-    <state x="465" y="166" width="424" height="487" key="FileChooserDialogImpl" timestamp="1606075239422">
+    <state x="465" y="166" width="424" height="487" key="FileChooserDialogImpl" timestamp="1606075943352">
       <screen x="0" y="30" width="1366" height="738" />
     </state>
-    <state x="465" y="166" width="424" height="487" key="FileChooserDialogImpl/0.30.1366.738/1366.0.1360.768@0.30.1366.738" timestamp="1606075239422" />
+    <state x="465" y="166" width="424" height="487" key="FileChooserDialogImpl/0.30.1366.738/1366.0.1360.768@0.30.1366.738" timestamp="1606075943352" />
     <state x="1829" y="142" width="424" height="487" key="FileChooserDialogImpl/0.30.1366.738/1366.0.1360.768@1366.0.1360.768" timestamp="1606061848677" />
-    <state x="407" y="208" width="417" height="294" key="Github.ShareDialog" timestamp="1606075763839">
+    <state x="503" y="320" width="360" height="160" key="Github.CreateGistDialog" timestamp="1606076098351">
       <screen x="0" y="30" width="1366" height="738" />
     </state>
-    <state x="407" y="208" width="417" height="294" key="Github.ShareDialog/0.30.1366.738/1366.0.1360.768@0.30.1366.738" timestamp="1606075763839" />
-    <state width="1343" height="234" key="GridCell.Tab.0.bottom" timestamp="1606075506937">
+    <state x="503" y="320" width="360" height="160" key="Github.CreateGistDialog/0.30.1366.738/1366.0.1360.768@0.30.1366.738" timestamp="1606076098351" />
+    <state x="407" y="208" width="417" height="294" key="Github.ShareDialog" timestamp="1606076142270">
       <screen x="0" y="30" width="1366" height="738" />
     </state>
-    <state width="1343" height="234" key="GridCell.Tab.0.bottom/0.30.1366.738/1366.0.1360.768@0.30.1366.738" timestamp="1606075506937" />
+    <state x="407" y="208" width="417" height="294" key="Github.ShareDialog/0.30.1366.738/1366.0.1360.768@0.30.1366.738" timestamp="1606076142270" />
+    <state x="456" y="97" width="444" height="607" key="Github.UntrackedFilesDialog" timestamp="1606075779994">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="456" y="97" width="444" height="607" key="Github.UntrackedFilesDialog/0.30.1366.738/1366.0.1360.768@0.30.1366.738" timestamp="1606075779994" />
+    <state width="1343" height="234" key="GridCell.Tab.0.bottom" timestamp="1606077134039">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state width="1343" height="234" key="GridCell.Tab.0.bottom/0.30.1366.738/1366.0.1360.768@0.30.1366.738" timestamp="1606077134039" />
     <state width="1337" height="234" key="GridCell.Tab.0.bottom/0.30.1366.738/1366.0.1360.768@1366.0.1360.768" timestamp="1606073964084" />
-    <state width="1343" height="234" key="GridCell.Tab.0.center" timestamp="1606075506937">
+    <state width="1343" height="234" key="GridCell.Tab.0.center" timestamp="1606077134038">
       <screen x="0" y="30" width="1366" height="738" />
     </state>
-    <state width="1343" height="234" key="GridCell.Tab.0.center/0.30.1366.738/1366.0.1360.768@0.30.1366.738" timestamp="1606075506937" />
+    <state width="1343" height="234" key="GridCell.Tab.0.center/0.30.1366.738/1366.0.1360.768@0.30.1366.738" timestamp="1606077134038" />
     <state width="1337" height="234" key="GridCell.Tab.0.center/0.30.1366.738/1366.0.1360.768@1366.0.1360.768" timestamp="1606073964084" />
-    <state width="1343" height="234" key="GridCell.Tab.0.left" timestamp="1606075506937">
+    <state width="1343" height="234" key="GridCell.Tab.0.left" timestamp="1606077134038">
       <screen x="0" y="30" width="1366" height="738" />
     </state>
-    <state width="1343" height="234" key="GridCell.Tab.0.left/0.30.1366.738/1366.0.1360.768@0.30.1366.738" timestamp="1606075506937" />
+    <state width="1343" height="234" key="GridCell.Tab.0.left/0.30.1366.738/1366.0.1360.768@0.30.1366.738" timestamp="1606077134038" />
     <state width="1337" height="234" key="GridCell.Tab.0.left/0.30.1366.738/1366.0.1360.768@1366.0.1360.768" timestamp="1606073964083" />
-    <state width="1343" height="234" key="GridCell.Tab.0.right" timestamp="1606075506937">
+    <state width="1343" height="234" key="GridCell.Tab.0.right" timestamp="1606077134039">
       <screen x="0" y="30" width="1366" height="738" />
     </state>
-    <state width="1343" height="234" key="GridCell.Tab.0.right/0.30.1366.738/1366.0.1360.768@0.30.1366.738" timestamp="1606075506937" />
+    <state width="1343" height="234" key="GridCell.Tab.0.right/0.30.1366.738/1366.0.1360.768@0.30.1366.738" timestamp="1606077134039" />
     <state width="1337" height="234" key="GridCell.Tab.0.right/0.30.1366.738/1366.0.1360.768@1366.0.1360.768" timestamp="1606073964084" />
     <state width="1337" height="228" key="GridCell.Tab.1.bottom" timestamp="1605739763454">
       <screen x="1366" y="0" width="1360" height="768" />
@@ -228,6 +265,10 @@
     </state>
     <state x="185" y="35" width="997" height="733" key="SettingsEditor/0.30.1366.738/1366.0.1360.768@0.30.1366.738" timestamp="1605808510810" />
     <state x="1366" y="3" width="992" height="733" key="SettingsEditor/0.30.1366.738/1366.0.1360.768@1366.0.1360.768" timestamp="1606058779757" />
+    <state x="278" y="121" width="800" height="558" key="Vcs.Push.Dialog.v2" timestamp="1606076040341">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="278" y="121" width="800" height="558" key="Vcs.Push.Dialog.v2/0.30.1366.738/1366.0.1360.768@0.30.1366.738" timestamp="1606076040341" />
     <state x="1944" y="163" width="194" height="444" key="com.intellij.tools.ToolSelectDialog.dimensionServiceKey" timestamp="1605738333970">
       <screen x="1366" y="0" width="1360" height="768" />
     </state>
@@ -241,10 +282,10 @@
       <screen x="0" y="30" width="1366" height="738" />
     </state>
     <state x="347" y="176" key="run.anything.popup/0.30.1366.738/1366.0.1360.768@0.30.1366.738" timestamp="1605808279581" />
-    <state x="345" y="116" width="675" height="652" key="search.everywhere.popup" timestamp="1606075504480">
+    <state x="345" y="116" width="675" height="652" key="search.everywhere.popup" timestamp="1606077071154">
       <screen x="0" y="30" width="1366" height="738" />
     </state>
-    <state x="345" y="116" width="675" height="652" key="search.everywhere.popup/0.30.1366.738/1366.0.1360.768@0.30.1366.738" timestamp="1606075504480" />
+    <state x="345" y="116" width="675" height="652" key="search.everywhere.popup/0.30.1366.738/1366.0.1360.768@0.30.1366.738" timestamp="1606077071154" />
     <state x="1709" y="89" width="672" height="678" key="search.everywhere.popup/0.30.1366.738/1366.0.1360.768@1366.0.1360.768" timestamp="1606061689000" />
   </component>
 </project>
